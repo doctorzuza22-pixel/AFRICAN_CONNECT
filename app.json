@@ -4,10 +4,19 @@
     "slug": "african-connect",
     "version": "0.1.0",
     "orientation": "portrait",
-    "userInterfaceStyle": "dark",
+    "userInterfaceStyle": "light",
     "scheme": "africanconnect",
-    "ios": { "supportsTablet": true, "bundleIdentifier": "com.africanconnect.app" },
-    "android": { "package": "com.africanconnect.app", "versionCode": 1, "edgeToEdgeEnabled": true },
-    "web": { "bundler": "metro" }
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.africanconnect.app"
+    },
+    "android": {
+      "package": "com.africanconnect.app",
+      "versionCode": 1,
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
   }
 }
